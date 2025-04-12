@@ -20,7 +20,7 @@ This project uses machine learning to identify diseases in tea leaves from uploa
 
 ### Machine Learning Models from Scratch
 Implementation of classical ML algorithms from scratch with only python and numpy.
-- 💻 [Source Code](https://github.com/kaarlboma/ML-models-from-scratch.git)
+- 💻 [Source Code]([https://github.com/kaarlboma/ML-models-from-scratch.git](https://github.com/kaarlboma/ML-Algorithms-From-Scratch.git))
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlboma/)
