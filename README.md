@@ -10,9 +10,9 @@ Data Science and Applied Mathematics student at Boston University. Passionate ab
 
 ## 🌟 Projects
 
-### Volleyball Exploratory Data Analysis Project
-Exploratory Data Analysis project on Beach Volleyball dataset of 76,000+ games; tested hypothesis of offense being more important than defense and achieved p-value < 0.05.
-- 💻 [Source Code](https://github.com/kaarlboma/Volleyball-EDA.git)
+### Exoplanet Radius Bayesian Regression Project
+Implemented Bayesian Linear Regression from scratch in Rust to predict exoplanet radii based on astronomical properties. With BLR, users can gather more meaningful results by incorporating prior information about the parameters and with rust, efficiently.
+- 💻 [Source Code](https://github.com/kaarlboma/astrobayes.git)
 
 ### Tea Leaf Disease Classifier Project
 This project uses machine learning to identify diseases in tea leaves from uploaded images. The model was trained on 850+ labeled images using XGBoost and achieves 80% average accuracy through 5-fold cross validation.
