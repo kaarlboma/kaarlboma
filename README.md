@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Karl
 
 ## About Me
-Data Science and Applied Mathematics student at Boston University. Passionate about machine and statistical learning, data science, and AI to create data-driven solutions to real-world problems.
+Data Science and Statistics student at Boston University. Passionate about machine and statistical learning, data science, bayesian/computational statistics, and science to create data-driven solutions to real-world problems.
 
 ## 🛠️ Skills
 - **Languages & Tools:** Python, Rust, Java, SQL
