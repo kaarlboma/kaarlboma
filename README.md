@@ -6,7 +6,7 @@ Data Science and Statistics student at Boston University. Passionate about machi
 ## 🛠️ Skills
 - **Languages & Tools:** Python, Rust, Java, SQL
 - **Data Science:** Machine Learning, Statistical Learning, Deep Learning, Exploratory Data Analysis
-- **Mathematics:** Linear Algebra, Calculus I-III, Statistics
+- **Mathematics:** Linear Algebra, Calculus I-III, Probability, Applied Statistics, Analysis of Variance
 
 ## 🌟 Projects
 
