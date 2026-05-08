@@ -1,30 +1,35 @@
-# 👋 Hi, I'm Karl
+# Karl Boma
 
-## About Me
-Data Science and Statistics student at Boston University. Passionate about machine and statistical learning, data science, bayesian/computational statistics, and science to create data-driven solutions to real-world problems.
-
-## 🛠️ Skills
-- **Languages & Tools:** Python, R, Rust, Java, SQL, LaTeX
-- **Data Science:** Machine Learning, Statistical Learning, Deep Learning, Algorithms, Exploratory Data Analysis (EDA)
-- **Mathematics:** Linear Algebra, Calculus I-III, Probability, Applied Statistics, Analysis of Variance
-
-## 🌟 Projects
-
-### Exoplanet Radius Bayesian Regression Project
-Implemented Bayesian Linear Regression from scratch in Rust to predict exoplanet radii based on astronomical properties. With BLR, users can gather more meaningful results by incorporating prior information about the parameters and with rust, efficiently.
-- 💻 [Source Code](https://github.com/kaarlboma/astrobayes.git)
-
-### Tea Leaf Disease Classifier Project
-This project uses machine learning to identify diseases in tea leaves from uploaded images. The model was trained on 850+ labeled images using XGBoost and achieves 80% average accuracy through 5-fold cross validation.
-- 💻 [Source Code](https://github.com/kaarlboma/tea-disease-classification.git)
-
-### Machine Learning Models from Scratch
-Implementation of classical ML algorithms from scratch with only python and numpy.
-- 💻 [Source Code](https://github.com/kaarlboma/ML-Algorithms-From-Scratch)
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlboma/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bomakarlalfred@gmail.com)
+Data Science & Mathematics student at Boston University. I work on machine learning, probabilistic modeling, and scientific computing.
 
 ---
-⭐️ From [kaarlboma](https://github.com/kaarlboma)
+
+## Experience
+
+- **AI/ML Fellow** — Break Through Tech × MIT, partnered with Accenture on predictive maintenance ML
+- **Research Assistant** — Huggins Group + Dietze Lab, BU (ecological forecasting)
+- **Course Assistant** — DS122: Advanced Probability & Statistics, BU
+
+---
+
+## Projects
+
+| Project | Description |
+|---|---|
+| [llm-physics-discovery](https://github.com/kaarlboma/llm-physics-discovery) | Extends NewtonBench (ICLR 2026) with iterative prompt optimization, enhanced evaluation, and multi-provider LLM routing |
+| [predictive-maintenance](https://github.com/BTTAI-Predictive-Maintenance/predictive-maintenance) | LSTM model forecasting industrial pump failures — AUC 0.98, $26.3M projected savings |
+| Autonomous Maze-Solving Vehicle | Deep RL agents navigating physical maze environments — Q-learning to OpenAI Gym simulation |
+| [tea-disease-classification](https://github.com/kaarlboma/tea-disease-classification) | XGBoost classifier on 850+ images with end-to-end Docker/FastAPI/AWS deployment |
+| [astrobayes](https://github.com/kaarlboma/astrobayes) | Bayesian linear regression from scratch in Rust for exoplanet radius prediction |
+
+---
+
+## Skills
+
+**Languages:** Python, R, Rust, SQL, Java  
+**Libraries:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy, SciPy  
+**Tools:** Docker, FastAPI, AWS, Git, Streamlit
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/karlboma/) · [Email](mailto:bomakarlalfred@gmail.com)
